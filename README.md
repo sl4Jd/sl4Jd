@@ -38,12 +38,19 @@ I am also intrigued by sheer vastness of space and specifically interstellar spa
 
 Hopefully i will one day be able to unite my areas of interests into one singular project/research.
 
-## Interest outside science
+## Interests outside science
 ### Chess
 I was a chess prodigy but stopped playing professionally at 11yo. 
 Playing amateur chess at my local chess club from time to time.
 
-Current FIDE standard rating: 1789
+Current FIDE standard rating: 1782
+
+### Gaming
+I have been huge gamer all my life and it's the main reason I got into programming. 
+
+My GOAT: Portal 2 and it's not even close
+
+Most played: Rocket league(champ I peak rank)
 
 ### Music
 Big music enjoyer tho i dont play any instruments and dont know how to sing.
