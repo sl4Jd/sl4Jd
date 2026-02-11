@@ -22,7 +22,7 @@ Fluent in English and Serbian
 I am 19 year old electrical engineering student with interest in computer science, mathematicians and space.
 
 ## Programming
-Most of my projects are in. C++ and range from graphics programming to computational experiments for number theory.
+Most of my projects are in C++ and range from graphics programming to computational experiments for number theory.
 
 I also use Rust but for now only for emulators.
 Currently learning Lean to help me conquer field of number theory.
@@ -40,7 +40,7 @@ Hopefully i will one day be able to unite my areas of interests into one singula
 
 ## Interests outside science
 ### Chess
-I was a chess prodigy but stopped playing professionally at 11yo. 
+I was a chess prodigy but stopped playing professionally at age 11. 
 Playing amateur chess at my local chess club from time to time.
 
 Current FIDE standard rating: 1782
