@@ -41,7 +41,7 @@ Hopefully i will one day be able to unite my areas of interests into one singula
 ## Interest outside science
 ### Chess
 I was a chess prodigy but stopped playing professionally at 11yo. 
-Playing amateur chess at my local chess time from time to time.
+Playing amateur chess at my local chess club from time to time.
 
 Current FIDE standard rating: 1789
 
@@ -52,12 +52,12 @@ Genres: i listen to a lot of stuff but currently mostly experimental rap, hyperp
 
 Artists(all time not currently, not in particular order):
 
--100 gecs
--kendrick lamar
--jpegmafia
--radiohead
--crystal castles
--underscores
--kanye
--mazzy star
--tame impala
+- 100 gecs
+- kendrick lamar
+- jpegmafia
+- radiohead
+- crystal castles
+- underscores
+- kanye
+- mazzy star
+- tame impala
